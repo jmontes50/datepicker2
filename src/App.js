@@ -45,9 +45,6 @@ export default function App() {
 
   useEffect(() => {
     simularMockapi();
-    fetch("./mark.md")
-      .then((res) => console.log(res))
-      .catch((err) => console.log(err));
   }, []);
 
   // console.log({ window });
