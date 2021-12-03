@@ -1,2 +1,2 @@
-# datepicker2
+# datepicker
 Created with CodeSandbox
